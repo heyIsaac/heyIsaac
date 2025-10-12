@@ -51,7 +51,7 @@ Let's build the future together! 🚀
 			</td>
    			<td>
 				<h2> <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="35px"/> Data Base </h2>
-				<img src="https://skillicons.dev/icons?i=postgresql,mysql&perline=12" />
+				<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase&perline=12" />
    				<h2>
        					<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px"/> Tools
 	    			</h2>
