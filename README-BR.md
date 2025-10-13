@@ -1,12 +1,12 @@
 <table align="right">
  	<tr>
 		<td>
-			<a href="https://github.com/DevSaLLein/heyIsaac/blob/main/README.md">:us: English</a>
+			<a href="https://github.com/heyIsaac/heyIsaac/blob/main/README.md">:us: English</a>
 		</td>
 	</tr>
  	<tr>
 		<td>
-			<a href="https://github.com/DevSaLLein/heyIsaac/blob/main/README-BR.md">:brazil: Português</a>
+			<a href="https://github.com/heyIsaac/heyIsaac/blob/main/README-BR.md">:brazil: Português</a>
 		</td>
 	</tr>
 </table>
@@ -16,8 +16,8 @@
 		<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=55&duration=3000&pause=700&color=fff&center=true&vCenter=true&random=false&width=1000&height=85&lines=Olá%2C+Dev_;Seja+Bem-Vindo(a)+%3A%29_" alt="Typing SVG"/>
 	</div>
 	<section align='left'>
-		<img src="https://komarev.com/ghpvc/?username=devsallein&label=Profile%20views&color=ff33ff&style=flat" alt="Followers" />
-		<img src="https://img.shields.io/github/stars/DevSaLLein?affiliations=OWNER%2CCOLLABORATOR&color=ff33ff&style=flat" alt="Stars"/>
+		<img src="https://komarev.com/ghpvc/?username=heyIsaac&label=Profile%20views&color=ff33ff&style=flat" alt="Followers" />
+		<img src="https://img.shields.io/github/stars/heyIsaac?affiliations=OWNER%2CCOLLABORATOR&color=ff33ff&style=flat" alt="Stars"/>
 	</section>	 
 </header>
 <main>
